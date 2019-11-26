@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("/images/emilia-home.jpg");
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position-x: 70%;
+  color: grey
+}
+
+h1 {
+  font:50px  "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: black;
+  background-color : grey;
+}
